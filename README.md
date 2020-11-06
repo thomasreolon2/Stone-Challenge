@@ -25,7 +25,8 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/thomasreolon2/proffy?color=%239871F5">
 </p>
 
-## :wave: Hey there! Tom Here :smiley:  <h3> this repository is dedicated to a brazilian fintech so you can translate the page. </h3>
+<h2 align="center"> :wave: Hey there! Tom Here :smiley: <h2>
+<h3> this repository is dedicated to a brazilian fintech so you can translate the page. </h3>
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/https://github.com/thomasreolon2)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-reolon-000112a3/)
