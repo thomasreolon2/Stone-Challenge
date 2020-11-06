@@ -197,7 +197,7 @@ ou em desenvolvimento
 
 ```
 
-## :eyes:
+## :eyes: DB Preview
 
 
 <img src="https://i.ibb.co/bsfr2qp/Screenshot-from-2020-11-06-03-29-06.png" alt="test" border="0"> <img src="https://i.ibb.co/smxxFXx/Screenshot-from-2020-11-06-10-07-50.png" alt="test" border="0" width="320" height="300">
