@@ -43,10 +43,15 @@
 
 ```
 
-O desafio que propomos é criar uma interface gráfica usando um framework Javascript a sua escolha(Angular, React ...). Essa interface deve servir para o usuário conseguir buscar ou inserir informações de funcionários lançadas no sistema sempre se conectando a API criada no desafio anterior para fazer as alterações no banco.
+O desafio que propomos é criar uma interface gráfica usando um framework Javascript a sua escolha
+(Angular, React ...). Essa interface deve servir para o usuário conseguir buscar ou inserir 
+informações de funcionários lançadas no sistema sempre se conectando a API criada no desafio
+anterior para fazer as alterações no banco.✅✅
+
 Operações Desejadas ✅✅
 
 Inclusão de um funcionário:✅✅
+
 Ao preencher um formulário fazer um POST na API criada para inserir um registro 
 dentro do banco de dados utilizado. ✅✅
 
@@ -84,7 +89,7 @@ O prazo para realização do desafio é de 7 dias. ✅✅
 
 ## 🚀 Tecnologias
 
-Technologies that I used to develop this application
+Tecs que utilizei para o desenvolvimento:
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [NodeJS](https://nodejs.org/en/)
@@ -206,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <h1 align="center">
-Made with 💜&nbsp; by Thomas Reolon 👋 &nbsp;
+Feito com 💜&nbsp; Thomaz Reolon 👋 &nbsp;
 😀 Obrigado a Equipe da Stone: Yago Dotti e o Yann Souza.
 
 [Follow me LinkedIn](https://www.linkedin.com/in/thomas-reolon/)
