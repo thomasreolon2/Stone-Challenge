@@ -1,0 +1,92 @@
+.container {
+  flex: 1;
+}
+.customCard {
+  background: white !important;
+  margin-top: 30px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 140%;
+
+  box-shadow: 5px 3px 8px #6b6f6d;
+}
+
+.customCard:hover {
+  background: white !important;
+  margin-top: 30px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 140%;
+
+  box-shadow: 5px 3px 17px #00bf4e;
+}
+
+.buttonSubmit {
+  height: 50px;
+  width: 100%;
+  background-color: white;
+  color: white;
+  border-color: black;
+  border-width: 1.3px;
+  color: black;
+  transition: 0.3s all;
+}
+
+.dropdown-content li.active,
+.dropdown-content li:hover {
+  background-color: #00bf4e;
+}
+
+.buttonSubmit:hover {
+  height: 60px;
+  border-radius: 8px;
+  background-color: #00bf4e;
+  color: white;
+  border-color: black;
+  border-width: 1.3px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.field {
+  width: 90%;
+  height: 35px;
+  border-radius: 4px;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: 0.3s all;
+  margin-left: 5%;
+}
+.field:hover {
+  background-color: white;
+  box-shadow: 1px 1px 3px #00bf4e;
+  border-radius: 15px;
+  border-color: #53d589;
+}
+
+.selectField {
+  width: 95%;
+  height: 35px;
+  border-radius: 4px;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: 0.3s all;
+  margin-left: 2.5%;
+}
+.selectField:hover {
+  background-color: white;
+  box-shadow: 1px 1px 3px #00bf4e;
+  border-radius: 15px;
+  border-color: #53d589;
+}
+
+.Art {
+  width: 25%;
+  height: 25%;
+  margin-right: 10px;
+  margin-top: 10px;
+}
