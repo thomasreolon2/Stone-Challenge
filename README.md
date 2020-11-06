@@ -212,7 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <h1 align="center">
 Made with 💜&nbsp; by Thomas Reolon 👋 &nbsp;
-😀 Obrigado: Yago Dotti e o Yann Souza.
+😀 Obrigado a Equipe da Stone: Yago Dotti e o Yann Souza.
 
 [Follow me LinkedIn](https://www.linkedin.com/in/thomas-reolon/)
 <h1>
