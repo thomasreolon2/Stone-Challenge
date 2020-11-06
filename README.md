@@ -150,9 +150,9 @@ stone-challenge-api
 
 ```bash
 
-abrir arquivo .env
+   abrir arquivo .env
 
-  stone-challenge-api
+stone-challenge-api (folder)
            │ 
          .env  
            │ 
@@ -170,15 +170,13 @@ Colocar a URI do cluster criado no MongoDB
 /cd stone-challenge-api
 
 # Inicializando dependencias
-/yarn install       
+/yarn install
+or npm
 
 /node server 
-ou em desenvolvimento 
+ou em desenvolvimento:
 /nodemon server
 
-# Voltar:
-
-/cd ..
 
 ```
 
@@ -187,13 +185,10 @@ ou em desenvolvimento
 /cd stone-challenge-webapp
 
 # Inicializando dependencias
-/yarn install      linux: sudo yarn install --ignore-engines 
+/yarn install         linux: sudo yarn install --ignore-engines 
+or npm
 
 /yarn start 
-
-# Voltar:
-
-/cd ..
 
 ```
 
