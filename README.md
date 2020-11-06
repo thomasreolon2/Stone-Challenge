@@ -141,7 +141,7 @@ stone-challenge-api
       ├── routes
       │     ├── employee_act_route.js
       │     └── employee_route.js                
-      │ 
+    .env
       └── server.js
 ```
 ## :bowtie: Inicialização
