@@ -26,7 +26,7 @@
 </p>
 
 <h2 align="center"> :wave: Hey there! Tom Here :smiley: <h2>
-<h3> this repository is dedicated to a brazilian fintech so you can translate the page. </h3>
+<h3> this repository is dedicated to the (stone) a brazilian fintech so you can translate the page. </h3>
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/https://github.com/thomasreolon2)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-reolon-000112a3/)
@@ -42,6 +42,7 @@
 ## Parte-1:
 
 ```
+Stone:
 
 O desafio que propomos é criar uma interface gráfica usando um framework Javascript a sua escolha
 (Angular, React ...). Essa interface deve servir para o usuário conseguir buscar ou inserir 
