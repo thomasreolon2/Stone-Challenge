@@ -40,10 +40,35 @@
 
 ## [![CHECK VIDEO PREVIEW](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/58vRY_W-Rgk)
 
+
 ## Parte-1:
 
 ```
 Stone:
+
+O desafio que propomos é escrever uma API REST, usando Python, Node ou Java que
+realizará operações em um banco de dados de funcionários. ✅✅
+
+Um funcionário deve possuir como atributos : Id , Idade , Nome e Cargo ✅✅
+
+Salvar as informações necessárias em um banco de dados relacional de sua escolha ✅✅
+
+Gerar logs das ações ✅✅
+
+Documentar como rodar o projeto ✅✅
+
+Operações Desejadas ✅✅
+
+Implementar métodos : 1.GET 2.POST 3.PUT 4.DELETE ✅✅
+
+O prazo para realização do desafio é de 7 dias. ✅✅
+ 
+```
+
+
+## Parte-2:
+
+```
 
 O desafio que propomos é criar uma interface gráfica usando um framework Javascript a sua escolha
 (Angular, React ...). Essa interface deve servir para o usuário conseguir buscar ou inserir 
@@ -66,28 +91,6 @@ O prazo para realização do desafio é de 7 dias. ✅✅
 
 ```
 
-## Parte-2:
-
-```
-
-O desafio que propomos é escrever uma API REST, usando Python, Node ou Java que
-realizará operações em um banco de dados de funcionários. ✅✅
-
-Um funcionário deve possuir como atributos : Id , Idade , Nome e Cargo ✅✅
-
-Salvar as informações necessárias em um banco de dados relacional de sua escolha ✅✅
-
-Gerar logs das ações ✅✅
-
-Documentar como rodar o projeto ✅✅
-
-Operações Desejadas ✅✅
-
-Implementar métodos : 1.GET 2.POST 3.PUT 4.DELETE ✅✅
-
-O prazo para realização do desafio é de 7 dias. ✅✅
- 
-```
 
 ## 🚀 Tecnologias
 
