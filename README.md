@@ -26,8 +26,8 @@
 </p>
 
 <h2 align="center"> :wave: Hey there! Tom Here :smiley: <h2>
-<h3> this repository is dedicated to the (stone) a brazilian fintech so you can translate the page. </h3>
-<h3> Enjoy the result of 3 days: 🤗 . </h3>
+<h3> this repository is dedicated to the (stone) a brazilian fintech. </h3>
+<h3> Enjoy 🤗 . </h3>
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/https://github.com/thomasreolon2)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-reolon-000112a3/)
@@ -36,62 +36,59 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@thomasreolon)
 [![StackOverFlow](https://img.shields.io/badge/-Stack_Overflow-eba51a?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6632607/thomas-reolon)
 
-## 📚 Sobre o Projeto
+## 📚 About the Project
 
-## Parte-1:
+## Part-1:
 
 ```
 Stone:
 
-O desafio que propomos é escrever uma API REST, usando Python, Node ou Java que
-realizará operações em um banco de dados de funcionários. ✅✅
+the challenge that we propose is develop API Rest using Python, node or Java 
+that it'll realize operations on a employee database ✅✅
 
-Um funcionário deve possuir como atributos : Id , Idade , Nome e Cargo ✅✅
 
-Salvar as informações necessárias em um banco de dados relacional de sua escolha ✅✅
+An employee must have the following attributes: Id, Age, Name and Position✅✅
 
-Gerar logs das ações ✅✅
+Save as mandatory information in a relational database of your choice✅✅
 
-Documentar como rodar o projeto ✅✅
+Generate Logs✅✅
 
-Operações Desejadas ✅✅
+Document how start the project ✅✅
 
-Implementar métodos : 1.GET 2.POST 3.PUT 4.DELETE ✅✅
+Requests : 1.GET 2.POST 3.PUT 4.DELETE ✅✅
 
-O prazo para realização do desafio é de 7 dias. ✅✅
+The deadline of the project is 2 days. ✅✅
  
 ```
 
 
-## Parte-2:
-
-```
-
-O desafio que propomos é criar uma interface gráfica usando um framework Javascript a sua escolha
-(Angular, React ...). Essa interface deve servir para o usuário conseguir buscar ou inserir 
-informações de funcionários lançadas no sistema sempre se conectando a API criada no desafio
-anterior para fazer as alterações no banco.✅✅
-
-Operações Desejadas ✅✅
-
-Inclusão de um funcionário:✅✅
-
-Ao preencher um formulário fazer um POST na API criada para inserir um registro 
-dentro do banco de dados utilizado. ✅✅
-
-Busca por funcionários: ✅✅
-
-Desenvolver uma tela onde o usuário consiga realizar a escolha de filtros e visualizar uma
-lista de funcionários com as características desejadas. ✅✅
-
-O prazo para realização do desafio é de 7 dias. ✅✅
+## Part-2:
 
 ```
 
 
-## 🚀 Tecnologias
+The challenge we propose is to create a graphical interface using a Javascript framework of your choice (Angular, React ...). This interface should serve for the user to be able to search or insert employee information posted on the system always connecting to an API created in the challenge previous to do as changes in the bank.✅✅
 
-Tecs que utilizei para o desenvolvimento:
+Desired Operations ✅✅
+
+Add Employee:✅✅
+
+When filling out a form make a POST in the API created to insert a record
+within the database used. ✅✅
+
+Search Employee: ✅✅
+
+Develop a screen where the user can make a choice of filters and view a
+list of employees with the desired characteristics. ✅✅
+
+The deadline of the project is 2 days. ✅✅
+
+```
+
+
+## 🚀 Techs
+
+Techs I used for development:
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [NodeJS](https://nodejs.org/en/)
@@ -107,7 +104,7 @@ Tecs que utilizei para o desenvolvimento:
 - [React-cli](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
 - [MongoDB (URI cluster)](https://cloud.mongodb.com)
 
-## :file_folder: Estrutura (main)
+## :file_folder: Structure (main)
 
 ```
 stone-challenge-webapp
@@ -152,13 +149,13 @@ stone-challenge-api
     .env
       └── server.js
 ```
-## :bowtie: Inicialização
+## :bowtie: Starting
 
-**Siga os passos abaixo**
+**Follow the steps below**
 
 ```bash
 
-   abrir arquivo .env
+   Open the .env file
 
 stone-challenge-api (folder)
            │ 
@@ -168,31 +165,32 @@ stone-challenge-api (folder)
 
 ex: MONGO_URI='mongodb+srv://<username>:<mypassword>@cluster0.8chrq.mongodb.net/<dbname>?retryWrites=true&w=majority'
 
-Colocar a URI do cluster criado no MongoDB 
+Put the URI of cluster created on MongoDD
 
 ```
 
 ```
 
-# Pasta API
+# API Folder
 /cd stone-challenge-api
 
-# Inicializando dependencias
+# Starting the dependencies
+
 /yarn install
 or npm
 
 /node server 
-ou em desenvolvimento:
+Or on development ambient:
 /nodemon server
 
 
 ```
 
 ```
-# Pasta Web-App
+# Web-App Folder
 /cd stone-challenge-webapp
 
-# Inicializando dependencias
+# Starting dependencies
 /yarn install         linux: sudo yarn install --ignore-engines 
 or npm
 
@@ -213,8 +211,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <h1 align="center">
-Feito com 💜&nbsp; Thomaz Reolon 👋 &nbsp;
-😀 Obrigado a Equipe da Stone: Yago Dotti e o Yann Souza.
+💜&nbsp; Thomaz Reolon 👋 &nbsp;
+😀 Thanks Stone Team: Yago Dotti and Yann Souza.
 
 [Follow me LinkedIn](https://www.linkedin.com/in/thomas-reolon/)
 <h1>
